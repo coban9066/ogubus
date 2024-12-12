@@ -1,0 +1,10 @@
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\bin\Debug\ogübüs.exe.config
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\bin\Debug\ogübüs.exe
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\bin\Debug\ogübüs.pdb
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.Form1.resources
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.exe
+C:\Users\Mehmet\Desktop\kod\c#\ogübüs\ogübüs\obj\Debug\ogübüs.pdb
